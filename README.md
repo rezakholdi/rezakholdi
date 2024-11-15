@@ -1,20 +1,19 @@
-Hello! I'm Reza Khaldi 👋
-I'm a physicist with a master's degree who has ventured into the world of mobile app development using Flutter. Passionate about tackling new challenges, I'm always on the lookout for learning and advancing in the tech world.
+# Hello! I'm Reza Khaldi 👋  
 
-My Projects:
-<p align="left"> <strong>Marvel Trade</strong>: A trading app specially designed for Marvel fans<br> <strong>Penguin</strong>: A creative and functional app for unique use cases </p>
-Skills:
-Android & iOS App Design: Experienced in designing and developing mobile apps for both platforms
-Tools: Git, VS Code, Figma
-My Goal:
-I'm committed to continuous learning and staying updated with the latest tools and technologies. My focus is on creating innovative and user-friendly experiences.
+I'm a physicist with a master's degree who has transitioned into the world of mobile app development using Flutter. Passionate about embracing new challenges, I’m always eager to learn and improve in the ever-evolving tech landscape.
 
-Connect With Me:
-🌐 Website
-📬 Telegram
-📷 Instagram
+## 💻 My Projects:
+- **Marvel Trade**: A trading app specially designed for Marvel fans  
+- **Penguin**: A creative and functional app built for unique use cases  
 
+## 🚀 Skills:
+- **Mobile App Development**: Proficient in designing and developing cross-platform apps for Android & iOS  
+- **Tools:** Git, VS Code, Figma  
 
+## 🎯 My Goal:
+I'm dedicated to continuous learning and staying updated with cutting-edge technologies to craft innovative and user-centric applications.
 
-
-
+## 🌐 Connect With Me:
+- [Website](http://www.fluttereza.com/)  
+- [Telegram](https://t.me/rizaxldi)  
+- [Instagram](https://www.instagram.com/fluttereza/)  
