@@ -1,23 +1,20 @@
-# سلام! من رضا خلدی هستم 👋
+Hello! I'm Reza Khaldi 👋
+I'm a physicist with a master's degree who has ventured into the world of mobile app development using Flutter. Passionate about tackling new challenges, I'm always on the lookout for learning and advancing in the tech world.
 
-من کارشناس ارشد فیزیک هستم که به دنیای توسعه اپلیکیشن‌های موبایل با فلاتر روی آوردم. عاشق چالش‌های جدید و همیشه در جستجوی یادگیری و پیشرفت بیشتر در دنیای تکنولوژی هستم.
+My Projects:
+<p align="left"> <strong>Marvel Trade</strong>: A trading app specially designed for Marvel fans<br> <strong>Penguin</strong>: A creative and functional app for unique use cases </p>
+Skills:
+Android & iOS App Design: Experienced in designing and developing mobile apps for both platforms
+Tools: Git, VS Code, Figma
+My Goal:
+I'm committed to continuous learning and staying updated with the latest tools and technologies. My focus is on creating innovative and user-friendly experiences.
 
-### پروژه‌های من:
+Connect With Me:
+🌐 Website
+📬 Telegram
+📷 Instagram
 
-<p align="right">
-  <strong>Marvel Trade</strong>: اپلیکیشن معاملاتی مخصوص طرفداران مارول<br>
-  <strong>Penguin</strong>: اپلیکیشن کاربردی و خلاقانه برای کاربردهای خاص
-</p>
 
-### تخصص‌ها:
 
-- **طراحی اپلیکیشن Android و iOS**: تجربه طراحی و توسعه اپلیکیشن‌های موبایل برای هر دو پلتفرم  
-- **ابزارها:** Git, VS Code, Figma
 
-### هدف من:
-همیشه در حال یادگیری و به‌روز نگه‌داشتن مهارت‌هام هستم تا بتونم با بهترین ابزارها و تکنولوژی‌های روز کار کنم. تمرکز من روی ایجاد تجربه‌های کاربری خلاقانه و کاربرپسنده.
 
-### راه‌های ارتباطی
-> - 🌐 [وب‌سایت](http://www.fluttereza.com/)  
-> - 📬 [تلگرام](https://t.me/rizaxldi)  
-> - 📷 [اینستاگرام](https://www.instagram.com/fluttereza/)  
