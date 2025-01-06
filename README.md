@@ -4,7 +4,8 @@ I'm a physicist with a master's degree who has transitioned into the world of mo
 
 ## 💻 My Projects:
 - **Marvel Trade**: A trading app specially designed for Marvel fans  
-- **Penguin**: A creative and functional app built for unique use cases  
+- **Penguin**: A creative and functional app built for unique use cases
+_ noghte_sefr_app
 
 ## 🚀 Skills:
 - **Mobile App Development**: Proficient in designing and developing cross-platform apps for Android & iOS  
